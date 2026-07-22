@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 방명록 API 서버 (팀 백엔드)
 
 ## 실행 순서
@@ -9,6 +10,9 @@
 ## 연결이 안 될 때 (Day 2 공식)
 - `ECONNREFUSED` → Supabase까지 **못 간 것**. .env 미로딩 의심 → `console.log(process.env.DATABASE_URL)` 확인
 - `password authentication failed` → Supabase까지 **간 것**. 비밀번호만 다시 확인
+=======
+# camp_day1
+>>>>>>> d830d1f62ed578a0b0c11abbbfd73ddf3befa19c
 =======
 # camp_day1
 >>>>>>> d830d1f62ed578a0b0c11abbbfd73ddf3befa19c
